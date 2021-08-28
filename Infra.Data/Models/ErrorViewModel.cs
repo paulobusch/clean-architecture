@@ -1,6 +1,4 @@
-using System;
-
-namespace MVC.Models
+namespace Infra.Data.Models
 {
     public class ErrorViewModel
     {
